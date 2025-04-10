@@ -1,0 +1,86 @@
+# crawler_node.py
+import requests
+from bs4 import BeautifulSoup
+import logging
+import time
+from urllib.parse import urljoin, urlparse
+import urllib.robotparser
+from config import Config
+from tasks import app, index_content
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+class CrawlerNode:
+    def __init__(self):
+        self.session = requests.Session()
+        self.session.headers.update({'User-Agent': Config.USER_AGENT})
+        self.robots_cache = {}
+        
+    def check_robots_txt(self, url):
+        """Check if URL is allowed by robots.txt"""
+        parsed_url = urlparse(url)
+        robots_url = f"{parsed_url.scheme}://{parsed_url.netloc}/robots.txt"
+        
+        if robots_url not in self.robots_cache:
+            rp = urllib.robotparser.RobotFileParser()
+            rp.set_url(robots_url)
+            try:
+                rp.read()
+                self.robots_cache[robots_url] = rp
+            except Exception as e:
+                logger.error(f"Error reading robots.txt: {e}")
+                return True
+                
+        return self.robots_cache[robots_url].can_fetch(Config.USER_AGENT, url)
+
+    def crawl(self, url):
+        """Crawl a single URL and return content and new URLs."""
+        logger.info(f"Starting to crawl: {url}")
+        
+        if not self.check_robots_txt(url):
+            logger.info(f"URL not allowed by robots.txt: {url}")
+            return None
+            
+        time.sleep(Config.CRAWL_DELAY)
+        
+        try:
+            logger.info(f"Fetching {url}")
+            response = self.session.get(url, timeout=5)
+            response.raise_for_status()
+            
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Extract text content
+            texts = []
+            for tag in ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+                texts.extend([elem.get_text().strip() for elem in soup.find_all(tag)])
+            text = ' '.join(texts)
+            
+            # Extract links
+            links = []
+            for a in soup.find_all('a', href=True):
+                link = urljoin(url, a['href'])
+                if link.startswith(('http://', 'https://')):
+                    if urlparse(link).netloc == urlparse(url).netloc:
+                        links.append(link)
+            
+            logger.info(f"Successfully crawled {url}. Found {len(links)} links and {len(text)} characters of text")
+            
+            # Send to indexer
+            index_content.delay(url, text)
+            
+            return {
+                'url': url,
+                'status': 'success',
+                'new_urls': links[:5],  # Limit new URLs for testing
+                'content_length': len(text)
+            }
+            
+        except Exception as e:
+            logger.error(f"Failed to crawl {url}: {e}")
+            return {
+                'url': url,
+                'status': 'error',
+                'error': str(e)
+            }
