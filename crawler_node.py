@@ -53,7 +53,7 @@ class CrawlerNode:
             
             # Extract text content
             texts = []
-            for tag in ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+            for tag in ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6','span']:
                 texts.extend([elem.get_text().strip() for elem in soup.find_all(tag)])
             text = ' '.join(texts)
             

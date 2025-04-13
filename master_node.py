@@ -68,6 +68,7 @@ def main():
         while True:
             master.distribute_tasks()
             master.monitor_crawlers()
+            print(master.active_crawlers)
             time.sleep(1)
     except KeyboardInterrupt:
         logger.info("Shutting down master node...")
