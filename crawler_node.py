@@ -7,7 +7,7 @@ from urllib.parse import urljoin, urlparse
 import urllib.robotparser
 from config import Config
 from tasks import app, index_content
-
+from redis_clinet import r
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -34,13 +34,19 @@ class CrawlerNode:
                 
         return self.robots_cache[robots_url].can_fetch(Config.USER_AGENT, url)
 
-    def crawl(self, url):
-        """Crawl a single URL and return content and new URLs."""
-        logger.info(f"Starting to crawl: {url}")
-        
+    def crawl(self, url, depth=0):
+        """Crawl a single URL and return content, new URLs and the current crawl depth."""
+        logger.info(f"Starting to crawl: {url} at depth {depth}")
         if not self.check_robots_txt(url):
             logger.info(f"URL not allowed by robots.txt: {url}")
-            return None
+            return {
+                'url': url,
+                'status': 'disallowed',
+                'error': 'Disallowed by robots.txt',
+                'new_urls': [],
+                'content_length': 0,
+                'depth': depth
+            }
             
         time.sleep(Config.CRAWL_DELAY)
         
@@ -66,15 +72,15 @@ class CrawlerNode:
                         links.append(link)
             
             logger.info(f"Successfully crawled {url}. Found {len(links)} links and {len(text)} characters of text")
-            
             # Send to indexer
-            index_content.delay(url, text)
+            index_content.delay(url, depth ,text)
             
             return {
                 'url': url,
                 'status': 'success',
                 'new_urls': links[:5],  # Limit new URLs for testing
-                'content_length': len(text)
+                'content_length': len(text),
+                'depth': depth
             }
             
         except Exception as e:
@@ -82,5 +88,6 @@ class CrawlerNode:
             return {
                 'url': url,
                 'status': 'error',
-                'error': str(e)
+                'error': str(e),
+                'depth': depth
             }

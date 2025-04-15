@@ -8,26 +8,21 @@ from indexer_node import IndexerNode
 import logging
 
 
-def run_command(command: list) -> bool:
-    try:
-        subprocess.run(command, check=True, capture_output=True, text=True)
-        return True
-    except subprocess.CalledProcessError as e:
-        logger.error(f'Command failed: {" ".join(command)}')
-        logger.error(f'Error: {e.stderr}')
-        return False
+
+
 app = Flask("web crawler")
 
 command = [
     "celery", "-A", "tasks","worker","-l","info"
 ]
 master = MasterNode()
-indexer = IndexerNode()
+
 
 def master_loop():
     while True:
         master.distribute_tasks()
-        master.monitor_crawlers()
+        master.monitor_workers()
+        master.monitor_finished_tasks()
         time.sleep(1) # Poll every second
 
 @app.route('/')
@@ -54,12 +49,13 @@ def crawl():
     if request.method == "POST":
         # Retrieve comma-separated URLs, crawl depth, and allowed domains from the form.
         urls = request.form.get("urls", "")
-        depth = request.form.get("depth", "1")
+        depth = int(request.form.get("depth", "1"))
         domains = request.form.get("domains", "")
         # For simplicity, we only use the URLs for now
         url_list = [u.strip() for u in urls.split(",") if u.strip()]
         # (Optional:) You can store/use depth and domain information in the MasterNode.
         master.add_seed_urls(url_list)
+        master.set_crawl_options(depth,domains)
         # Redirect back to home page (or to a "status" page) once seed URLs are submitted.
         return redirect(url_for("home"))
     crawl_html= """
@@ -86,6 +82,7 @@ def crawl():
 # Search page: query the index
 @app.route('/search', methods=["GET", "POST"])
 def search():
+    indexer = IndexerNode()
     results = []
     query = ""
     if request.method == "POST":
@@ -121,10 +118,12 @@ def search():
 # Monitor page: show current status from the MasterNode
 @app.route('/monitor')
 def monitor():
+    master.update_workers_from_redis()
     progress = {
-        'active_crawlers': list(master.active_crawlers),
-        'urls_in_queue': list(master.url_queue),
-        'urls_crawled': list(master.crawled_urls)
+        'active crawlers': list(master.active_crawlers),
+        'active indexers': list(master.active_indexers),
+        'urls in queue': list(master.url_queue),
+        'urls crawled': list(master.crawled_urls)
     }
     return jsonify(progress)
 
