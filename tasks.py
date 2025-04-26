@@ -5,7 +5,34 @@ from config import Config
 import time
 import threading
 from redis_clinet import r
-app = Celery('crawler', broker=Config.REDIS_URL)
+import os
+from kombu.utils.url import safequote
+
+# Initialize Celery app
+app = Celery('crawler')
+
+# Encode AWS credentials for URL
+aws_access_key = safequote(os.environ['AWS_ACCESS_KEY_ID'])
+aws_secret_key = safequote(os.environ['AWS_SECRET_ACCESS_KEY'])
+
+# Set broker URL using AWS credentials
+app.conf.broker_url = f'sqs://{aws_access_key}:{aws_secret_key}@'
+
+# Configure broker transport options
+app.conf.broker_transport_options = {
+    'region': os.environ.get('AWS_REGION', 'eu-north-1'),  # Default to 'eu-north-1' (Stockholm)
+    'visibility_timeout': 3600,  # Visibility timeout in seconds
+    'predefined_queues': {
+        'crawler-tasks': {
+            'url': os.environ['SQS_QUEUE_URL'],
+            'access_key_id': os.environ['AWS_ACCESS_KEY_ID'],
+            'secret_access_key': os.environ['AWS_SECRET_ACCESS_KEY'],
+        }
+    }
+}
+
+# Configure result backend using Redis
+app.conf.result_backend = f"redis://{os.environ['REDIS_HOST']}:{os.environ['REDIS_PORT']}/1"
 
 def send_heartbeat(id, name, stop_event ,interval=2):
     while not stop_event.wait(interval):

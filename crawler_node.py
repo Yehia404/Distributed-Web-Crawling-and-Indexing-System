@@ -3,11 +3,16 @@ import requests
 from bs4 import BeautifulSoup
 import logging
 import time
+import datetime
+import os
 from urllib.parse import urljoin, urlparse
 import urllib.robotparser
 from config import Config
 from tasks import app, index_content
 from redis_clinet import r
+import boto3
+
+s3 = boto3.client('s3')
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -56,7 +61,15 @@ class CrawlerNode:
             response.raise_for_status()
             
             soup = BeautifulSoup(response.text, 'html.parser')
-            
+            s3.put_object(
+            Bucket=os.environ['S3_BUCKET'],
+            Key=f"crawled/{urlparse(url).netloc}/{hash(url)}.html",
+            Body=response.text,
+            Metadata={
+                'source-url': url,
+                'crawl-time': datetime.utcnow().isoformat()
+            }
+        )
             # Extract text content
             texts = []
             for tag in ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6','span']:

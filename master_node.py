@@ -71,7 +71,7 @@ class MasterNode:
         Distribute crawling tasks to available workers.
         Each task receives a URL and its current crawl depth.
         """
-        while self.url_queue:
+        while self.url_queue :
             url, depth = self.url_queue.popitem()
             result = crawl_page.delay(url, depth)
             self.crawled_urls.add(url)
@@ -181,7 +181,7 @@ def main():
     try:
         while True:
             master.distribute_tasks()
-            master.monitor_crawlers()
+            master.monitor_workers()
             print(master.active_crawlers)
             time.sleep(1)
     except KeyboardInterrupt:
