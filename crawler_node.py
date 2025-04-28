@@ -2,6 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 import logging
+import hashlib
 import time
 import datetime
 import os
@@ -63,7 +64,7 @@ class CrawlerNode:
             soup = BeautifulSoup(response.text, 'html.parser')
             s3.put_object(
             Bucket=os.environ['S3_BUCKET'],
-            Key=f"crawled/{urlparse(url).netloc}/{hash(url)}.html",
+            Key="crawled/{netloc}/{hashlib.sha1(url.encode()).hexdigest()}.html",
             Body=response.text,
             Metadata={
                 'source-url': url,
