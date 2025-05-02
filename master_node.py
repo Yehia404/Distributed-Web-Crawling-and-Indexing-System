@@ -3,7 +3,6 @@ import json
 import logging
 import time
 from collections import defaultdict
-from tasks import app, crawl_page
 from redis_clinet import r
 from config import Config
 from urllib.parse import urlparse
@@ -71,11 +70,16 @@ class MasterNode:
         Distribute crawling tasks to available workers.
         Each task receives a URL and its current crawl depth.
         """
+        from tasks import crawl_page
         while self.url_queue :
             url, depth = self.url_queue.popitem()
-            result = crawl_page.delay(url, depth)
-            self.crawled_urls.add(url)
-            logger.info(f"Assigned URL to crawler: {url} (depth: {depth})")
+            logger.info("ana aho")
+            try:
+                result = crawl_page.delay(url, depth)
+                self.crawled_urls.add(url)
+                logger.info(f"Assigned URL to crawler: {url} (depth: {depth})")
+            except Exception as e:
+                logger.exception("Failed to publish task: %s", e)
     def monitor_finished_tasks(self):
         """
         Poll Redis for finished crawl tasks, fetch their results, 

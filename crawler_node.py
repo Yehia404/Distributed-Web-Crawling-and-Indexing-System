@@ -9,11 +9,10 @@ import os
 from urllib.parse import urljoin, urlparse
 import urllib.robotparser
 from config import Config
-from tasks import app, index_content
 from redis_clinet import r
 import boto3
 
-s3 = boto3.client('s3')
+s3 = boto3.client("s3", region_name=os.getenv("AWS_REGION", "eu-north-1"))
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -60,11 +59,12 @@ class CrawlerNode:
             logger.info(f"Fetching {url}")
             response = self.session.get(url, timeout=5)
             response.raise_for_status()
-            
+            parsed = urlparse(url)
+            netloc = parsed.netloc
             soup = BeautifulSoup(response.text, 'html.parser')
             s3.put_object(
             Bucket=os.environ['S3_BUCKET'],
-            Key="crawled/{netloc}/{hashlib.sha1(url.encode()).hexdigest()}.html",
+            Key=f"crawled/{netloc}/{hashlib.sha1(url.encode()).hexdigest()}.html",
             Body=response.text,
             Metadata={
                 'source-url': url,
@@ -87,6 +87,7 @@ class CrawlerNode:
             
             logger.info(f"Successfully crawled {url}. Found {len(links)} links and {len(text)} characters of text")
             # Send to indexer
+            from tasks import index_content
             index_content.delay(url, depth ,text)
             
             return {

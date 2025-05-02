@@ -10,29 +10,34 @@ from requests_aws4auth import AWS4Auth
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
+import boto3
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+session= boto3.Session()               
+creds= session.get_credentials()
+region= session.region_name or os.getenv("AWS_REGION", "eu-north-1")
+
+awsauth = AWS4Auth(
+    creds.access_key,
+    creds.secret_key,
+    region,
+    "es",
+    session_token=creds.token                
+)
 class IndexerNode:
     def __init__(self):
         # Initialize components for text normalization
         self.stemmer = PorterStemmer()
         self.stop_words = set(stopwords.words("english"))
-        self.load_index()
         self.os_client = OpenSearch(
-            hosts=[{'host': os.environ['OPENSEARCH_HOST'], 'port': 443}],
-            http_auth=AWS4Auth(
-                os.environ['AWS_ACCESS_KEY_ID'],
-                os.environ['AWS_SECRET_ACCESS_KEY'],
-                os.environ['AWS_REGION'],
-                'es',
-            ),
+            hosts=[{"host": os.environ["OPENSEARCH_HOST"], "port": 443}],
+            http_auth=awsauth,
             use_ssl=True,
             verify_certs=True,
-            connection_class=RequestsHttpConnection
-        )
-            
+            connection_class=RequestsHttpConnection,
+        )  
     def tokenize_and_normalize(self, text):
         """
         Tokenize text using regular expressions,

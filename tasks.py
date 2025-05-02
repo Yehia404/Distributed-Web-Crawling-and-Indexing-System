@@ -8,25 +8,30 @@ from redis_clinet import r
 from config import Config
 
 app = Celery('crawler')
+print("broker_url           :", app.conf.broker_url)
+print("task_always_eager    :", app.conf.task_always_eager)
+print("transport options    :", app.conf.broker_transport_options.get("predefined_queues"))
 
 
-aws_access_key = safequote(os.environ['AWS_ACCESS_KEY_ID'])
-aws_secret_key = safequote(os.environ['AWS_SECRET_ACCESS_KEY'])
-app.conf.broker_url = f'sqs://{aws_access_key}:{aws_secret_key}@'
+app.conf.broker_url = f'sqs://'
 app.conf.broker_transport_options = {
     'region': os.environ.get('AWS_REGION', 'eu-north-1'),
     'visibility_timeout': 3600,
     'predefined_queues': {
-        'crawler-tasks': {
+        'crawler': {
             'url': os.environ['SQS_QUEUE_URL'],
-            'access_key_id': os.environ['AWS_ACCESS_KEY_ID'],
-            'secret_access_key': os.environ['AWS_SECRET_ACCESS_KEY'],
-        }
+
+        },
+        'indexer': {
+            'url': os.environ['SQS_INDEXER_QUEUE_URL'],
+
+        },
+        
     }
 }
-app.conf.result_backend = (
-    f"redis://{os.environ['REDIS_HOST']}:{os.environ['REDIS_PORT']}/1"
-)
+
+app.conf.result_backend = None
+app.conf.task_ignore_result = True     
 
 
 def _hb_loop(redis_key: str, member: str, stop_event: threading.Event,
@@ -61,7 +66,7 @@ def start_heartbeat(redis_key: str, member: str,
     return stop_event, t
 
 
-@app.task(name='crawl_page')
+@app.task(name='crawl_page', queue='crawler')
 def crawl_page(url: str, depth: int):
     """
     Celery task that wraps CrawlerNode.crawl.
@@ -99,7 +104,7 @@ def crawl_page(url: str, depth: int):
         r.hdel("pending_urls_to_crawl", crawler_id)
 
 
-@app.task(name='index_content')
+@app.task(name='index_content', queue='indexer')
 def index_content(url: str, depth: int, text: str):
     from indexer_node import IndexerNode
 
@@ -118,4 +123,4 @@ def index_content(url: str, depth: int, text: str):
         stop_evt.set()
         hb_thread.join()
         r.zrem("active_indexers", indexer_id)
-        r.hdel("pending_urls_to_index", indexer_id)
+        r.hdel("pending_urls_to_index", indexer_id) 

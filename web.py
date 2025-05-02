@@ -1,29 +1,22 @@
 #!/usr/bin/env python3
 import threading
 import time
-import subprocess
+import requests
 from flask import Flask, request, render_template_string, redirect, url_for, jsonify
 from master_node import MasterNode
 from indexer_node import IndexerNode
 import logging
+import os
 
-
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 
 app = Flask("web crawler")
-
-command = [
-    "celery", "-A", "tasks","worker","-l","info"
-]
-master = MasterNode()
-
-
-def master_loop():
-    while True:
-        master.distribute_tasks()
-        master.monitor_workers()
-        master.monitor_finished_tasks()
-        time.sleep(1) # Poll every second
+MASTER_URL = os.getenv("MASTER_URL", "http://master:6000")
 
 @app.route('/')
 def home():
@@ -44,6 +37,7 @@ def home():
     """
     return render_template_string(home_html)
 
+
 @app.route('/crawl',methods=["GET","POST"])
 def crawl():
     if request.method == "POST":
@@ -53,10 +47,18 @@ def crawl():
         domains = request.form.get("domains", "")
         # For simplicity, we only use the URLs for now
         url_list = [u.strip() for u in urls.split(",") if u.strip()]
-        # (Optional:) You can store/use depth and domain information in the MasterNode.
-        master.add_seed_urls(url_list)
-        master.set_crawl_options(depth,domains)
-        # Redirect back to home page (or to a "status" page) once seed URLs are submitted.
+        try:
+            resp = requests.post(
+                f"{MASTER_URL}/seed",
+                json={"urls": url_list, "depth": depth, "domains": domains},
+                timeout=5
+            )
+            resp.raise_for_status()
+            msg = f"Queued {len(url_list)} URLs"
+            logger.info("Sent %s URLs to master (%s)", len(url_list), resp.status_code)
+        except Exception as exc:
+            msg = f"Error contacting master: {exc}"
+            logger.error(msg)
         return redirect(url_for("home"))
     crawl_html= """
     <html>
@@ -118,19 +120,8 @@ def search():
 # Monitor page: show current status from the MasterNode
 @app.route('/monitor')
 def monitor():
-    master.update_workers_from_redis()
-    progress = {
-        'active crawlers': list(master.active_crawlers),
-        'active indexers': list(master.active_indexers),
-        'urls in queue': list(master.url_queue),
-        'urls crawled': list(master.crawled_urls)
-    }
-    return jsonify(progress)
+    data = requests.get(f"{MASTER_URL}/state").json()
+    return jsonify(data)
 
 if __name__ == '__main__':
-    # Start the background thread for the master loop (so tasks are distributed and monitored)
-    t = threading.Thread(target=master_loop, daemon=True)
-    t.start()
-    
-    # Run the Flask app on port 5000. Adjust host or debug mode as needed.
     app.run(host="0.0.0.0", port=5000, debug=True)
