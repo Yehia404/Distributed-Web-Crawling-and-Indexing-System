@@ -105,7 +105,7 @@ def crawl_page(url: str, depth: int):
 
 
 @app.task(name='index_content', queue='indexer')
-def index_content(url: str, depth: int, text: str):
+def index_content(url: str, depth: int, s3_key: str):
     from indexer_node import IndexerNode
 
     indexer = IndexerNode()
@@ -117,7 +117,7 @@ def index_content(url: str, depth: int, text: str):
                                           interval=Config.HEARTBEAT_INTERVAL)
 
     try:
-        return indexer.add_to_index(url, text)
+        return indexer.add_to_index(url, s3_key)
 
     finally:
         stop_evt.set()

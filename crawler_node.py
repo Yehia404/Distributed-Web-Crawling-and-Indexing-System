@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import logging
 import hashlib
 import time
-import datetime
+from datetime import datetime
 import os
 from urllib.parse import urljoin, urlparse
 import urllib.robotparser
@@ -87,8 +87,15 @@ class CrawlerNode:
             
             logger.info(f"Successfully crawled {url}. Found {len(links)} links and {len(text)} characters of text")
             # Send to indexer
+            s3_key= f"crawled/{netloc}/{hashlib.sha1(url.encode()).hexdigest()}.txt"
+            s3.put_object(
+                Bucket=os.environ['S3_BUCKET'],
+                Key=s3_key,
+                Body=text.encode(),        
+                ContentType="text/plain"
+            )
             from tasks import index_content
-            index_content.delay(url, depth ,text)
+            index_content.delay(url, depth ,s3_key)
             
             return {
                 'url': url,

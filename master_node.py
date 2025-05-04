@@ -42,12 +42,12 @@ class MasterNode:
         
     def add_seed_urls(self, urls):
         """
-        Add new seed URLs into the queue with depth 0, subject to the allowed domains.
+        Add new seed URLs into the queue with depth 1, subject to the allowed domains.
         """
         for url in urls:
             if url not in self.crawled_urls and self.is_allowed_domain(url):
-                self.url_queue[url] = 0
-                logger.info(f"Added seed URL: {url} (depth: 0)")
+                self.url_queue[url] = 1
+                logger.info(f"Added seed URL: {url} (depth: 1)")
                 
     def add_new_urls(self, new_urls, parent_depth):
         """
@@ -73,7 +73,6 @@ class MasterNode:
         from tasks import crawl_page
         while self.url_queue :
             url, depth = self.url_queue.popitem()
-            logger.info("ana aho")
             try:
                 result = crawl_page.delay(url, depth)
                 self.crawled_urls.add(url)
@@ -100,7 +99,7 @@ class MasterNode:
                     # If the result indicates success and contains new_urls:
                     if result.get("status") == "success" and "new_urls" in result:
                         # Use the returned parent depth to calculate new depth.
-                        parent_depth = result.get("depth", 0)
+                        parent_depth = result.get("depth", 1)
                         new_urls = result.get("new_urls", [])
                         self.add_new_urls(new_urls, parent_depth)
                         logger.info(f"Processed finished task {crawler_id}: added {len(new_urls)} new URLs.")
@@ -145,7 +144,7 @@ class MasterNode:
             except Exception as e:
                 logger.error(f"Error decoding pending entry for crawler {crawler_id}: {e}")
                 url = pending_entry
-                depth = 0
+                depth = 1
             # Reassign the URL with its previously stored depth.
             self.url_queue[url] = depth
             logger.info(f"Reassigned {url} with depth {depth} from failed crawler {crawler_id}")
@@ -164,7 +163,7 @@ class MasterNode:
             except Exception as e:
                 logger.error(f"Error decoding pending entry for indexer {indexer_id}: {e}")
                 url = pending_entry
-                depth = 0
+                depth = 1
             # Reassign the URL with its previously stored depth.
             self.url_queue[url] = depth
             logger.info(f"Reassigned {url} with depth {depth} from failed indexer {indexer_id}")

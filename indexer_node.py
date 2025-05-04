@@ -4,13 +4,15 @@ import os
 import re
 from collections import defaultdict, Counter
 from config import Config
-import datetime
+from datetime import datetime
 from opensearchpy import OpenSearch, RequestsHttpConnection
 from requests_aws4auth import AWS4Auth
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import boto3
+
+s3 = boto3.client("s3", region_name=os.getenv("AWS_REGION", "eu-north-1"))
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -54,11 +56,13 @@ class IndexerNode:
                 normalized_tokens.append(stemmed)
         return normalized_tokens
         
-    def add_to_index(self, url, text):
+    def add_to_index(self, url, s3_key):
         """
         Add or update the index with content from the given URL.
         Tracks term frequencies so that ranking can be applied.
         """
+        obj = s3.get_object(Bucket=os.environ['S3_BUCKET'], Key=s3_key)
+        text  = obj["Body"].read().decode()
         tokens = self.tokenize_and_normalize(text)
         document = {
             'url': url,
