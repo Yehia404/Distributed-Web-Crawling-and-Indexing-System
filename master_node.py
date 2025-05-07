@@ -19,6 +19,8 @@ class MasterNode:
         self.url_queue = {}
         self.crawled_urls = set()
         self.active_indexers = set()
+        r.zremrangebyrank("active_crawlers", 0, -1)
+        r.zremrangebyrank("active_indexers", 0, -1)
         self.max_depth = 1 # Maximum crawl depth; None means no limit.
         self.allowed_domains = None # List of allowed domains; None means all domains allowed.
         
@@ -45,6 +47,8 @@ class MasterNode:
         Add new seed URLs into the queue with depth 1, subject to the allowed domains.
         """
         for url in urls:
+            if url in self.crawled_urls:
+                logger.info(f"url: {url} already cralwed before. Aborting...")
             if url not in self.crawled_urls and self.is_allowed_domain(url):
                 self.url_queue[url] = 1
                 logger.info(f"Added seed URL: {url} (depth: 1)")
