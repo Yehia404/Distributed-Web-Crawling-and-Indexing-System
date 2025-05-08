@@ -137,6 +137,7 @@ class MasterNode:
             self.handle_indexer_failure(indexer_id)
             
     def handle_crawler_failure(self, crawler_id):
+        r.zrem("active_crawlers", crawler_id)
         pending_entry = r.hget("pending_urls_to_crawl", crawler_id)
         if pending_entry:
             # If coming from Redis, the value might be a bytes object.
@@ -156,6 +157,7 @@ class MasterNode:
         
         
     def handle_indexer_failure(self, indexer_id):
+        r.zrem("active_indexers", indexer_id)
         pending_entry = r.hget("pending_urls_to_index", indexer_id)
         if pending_entry:
             # If coming from Redis, the value might be a bytes object.
