@@ -1,0 +1,1 @@
+export PYTHONPATH=/mnt/c/Users/Ahmed\ hosam/Desktop/distributed_project/Web_crawler:$PYTHONPATH

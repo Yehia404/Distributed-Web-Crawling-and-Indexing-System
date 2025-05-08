@@ -1,0 +1,3216 @@
+{
+  "explor": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 12,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 12
+  },
+  "vast": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "knowledg": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "wikipedia": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 21,
+    "https://en.wikipedia.org/wiki/Main_Page": 8,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 21,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 8
+  },
+  "help": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "resourc": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "specif": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "topic": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 9,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 9,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "mind": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "use": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "search": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "box": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "know": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "exactli": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "look": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "wish": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "broad": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "area": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "click": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "link": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 7,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 7,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "header": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "menu": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "top": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "page": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 10,
+    "https://en.wikipedia.org/wiki/Main_Page": 8,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 10,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 8
+  },
+  "begin": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "brows": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "organ": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "content": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 15,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 15,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "distinct": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "subject": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 6,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 6
+  },
+  "classif": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 4
+  },
+  "subdivis": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "divers": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "cultur": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 5,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 5
+  },
+  "art": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "belief": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "custom": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "human": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 4
+  },
+  "societi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "discov": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "wonder": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "earth": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "land": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "featur": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 4,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "inhabit": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "planetari": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "phenomena": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "learn": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 5,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 5,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "physic": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "mental": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "social": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 5,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 5
+  },
+  "health": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "dive": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "past": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "written": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "record": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "scholarli": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "chronolog": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "event": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 7,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 7,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "comprehens": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "timelin": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "stay": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "date": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "encyclopedia": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "entri": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "cover": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "ongo": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "delv": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "action": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "leisur": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "entertain": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "industri": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "warfar": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "studi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "quantiti": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "structur": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "space": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "chang": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "understand": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "natur": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "empir": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "evid": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "observ": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "experi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "collect": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "entiti": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "ethnic": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "group": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "nation": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "deep": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "fundament": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "question": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "exist": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "valu": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "access": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 4
+  },
+  "inform": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "compil": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "easi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "retriev": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "refer": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "variou": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "third": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "parti": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "system": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 9,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 9
+  },
+  "articl": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 25,
+    "https://en.wikipedia.org/wiki/Main_Page": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 25,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 3
+  },
+  "sourc": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "read": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "verif": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "ethic": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "interact": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "polit": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "author": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "norm": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "techniqu": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "skill": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "method": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "process": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "technolog": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "scienc": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 9,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 5,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 5,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 9
+  },
+  "get": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "summari": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "subtop": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "biographi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "relat": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 6,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 6,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "outlin": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "format": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "detail": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "find": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "enumer": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "type": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "list": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 8,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 8,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "countri": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "peopl": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 5,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 5
+  },
+  "imag": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "news": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "themat": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "portal": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 4,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 18,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 18,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "term": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "definit": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "alphabet": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 4
+  },
+  "glossari": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "categori": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "index": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "demand": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "high": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "qualiti": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 5,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 5
+  },
+  "import": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 4
+  },
+  "languag": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Main_Page": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 3
+  },
+  "best": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "review": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "vet": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "well": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "factual": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "accur": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "meet": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "editori": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "standard": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "listen": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "spoken": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "word": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "place": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "time": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "indic": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "navig": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "main": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 5,
+    "https://en.wikipedia.org/wiki/Main_Page": 6,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 5,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 6
+  },
+  "geographi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "histori": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 6,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 6,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "activ": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "mathemat": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "formal": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "philosophi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "work": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "religion": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "appli": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "overview": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "vital": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "everi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "good": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 4
+  },
+  "current": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 5,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 5,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "bibliographi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "random": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "contact": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "us": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "edit": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 5,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 5,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "commun": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "recent": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "upload": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "file": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "special": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "appear": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 3
+  },
+  "donat": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "creat": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "account": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "log": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "person": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "tool": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "contribut": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "talk": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "1": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 23,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 23
+  },
+  "toggl": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 5,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 5
+  },
+  "subsect": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "2": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 12,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 12
+  },
+  "3": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 8,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 8
+  },
+  "4": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 6,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 6
+  },
+  "5": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "6": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "7": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "8": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "9": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "10": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 3
+  },
+  "11": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "12": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "13": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "tabl": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "47": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u0627\u0644\u0639\u0631\u0628\u064a\u0629": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0985\u09b8\u09ae": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u09af": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u062a\u06c6\u0631\u06a9\u062c\u0647": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u09ac": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u09b2": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u092d": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u091c\u092a": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0930": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0447\u04d1\u0432\u0430\u0448\u043b\u0430": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "cebuano": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "espa\u00f1ol": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0641\u0627\u0631\u0633\u06cc": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0433\u04cf\u0430\u043b\u0433\u04cf\u0430\u0439": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\ud55c\uad6d\uc5b4": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0939": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0928": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 3,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "\u0926": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "hrvatski": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "bahasa": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 4
+  },
+  "indonesia": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u049b\u0430\u0437\u0430\u049b\u0448\u0430": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u043a\u043e\u043c\u0438": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "kurd\u00ee": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "magyar": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0d2e\u0d32\u0d2f": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u0d33": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "melayu": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u1019": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u1014": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u1018": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u101e": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "nederland": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u092a": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0932": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u65e5\u672c\u8a9e": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "o\u02bbzbekcha": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u045e\u0437\u0431\u0435\u043a\u0447\u0430": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u067e\u069a\u062a\u0648": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u1797": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u179f": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u1781": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u1798": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u179a": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "polski": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "portugu\u00ea": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0440\u0443\u0441\u0441\u043a\u0438\u0439": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u1c65\u1c5f\u1c71\u1c5b\u1c5f\u1c72\u1c64": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0dc3": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0dc4\u0dbd": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0633\u0646\u068c\u064a": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0441\u0440\u043f\u0441\u043a\u0438": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "srpski": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "sunda": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "suomi": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "tagalog": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0ba4\u0bae": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0bb4": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0442\u0430\u0442\u0430\u0440\u0447\u0430": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "tatar\u00e7a": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u1010": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u0c24": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u0c32": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u0c17": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u0e44\u0e17\u0e22": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "xitsonga": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u05d9\u05d9": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u05d3\u05d9\u05e9": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u7cb5\u8a9e": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "\u4e2d\u6587": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "project": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "english": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 4
+  },
+  "view": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 4,
+    "https://en.wikipedia.org/wiki/Main_Page": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 4
+  },
+  "perman": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "shorten": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "url": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "download": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "qr": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "code": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "pdf": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "printabl": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "version": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "wikivers": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "wikidata": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 3
+  },
+  "item": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "wp": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 2
+  },
+  "start": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "styletip": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "noticeboard": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "mainten": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "html": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "templat": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "today": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "death": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "year": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "decad": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "centuri": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "millennia": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1
+  },
+  "utc": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "add": {
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents": 1,
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "ladi": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "blue": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "american": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "detect": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "adventur": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "televis": {
+    "https://en.wikipedia.org/wiki/Main_Page": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 3
+  },
+  "seri": {
+    "https://en.wikipedia.org/wiki/Main_Page": 4,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 4
+  },
+  "origin": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "air": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "broadcast": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "compani": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "abc": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "produc": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "david": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "gerber": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "show": {
+    "https://en.wikipedia.org/wiki/Main_Page": 4,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 4
+  },
+  "pilot": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "film": {
+    "https://en.wikipedia.org/wiki/Main_Page": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 3
+  },
+  "april": {
+    "https://en.wikipedia.org/wiki/Main_Page": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 9,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 9,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 3
+  },
+  "15": {
+    "https://en.wikipedia.org/wiki/Main_Page": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 4
+  },
+  "1985": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "pick": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "full": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "septemb": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "januari": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "25": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "1986": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "revolv": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "around": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "chicago": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "kati": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "mahoney": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "jami": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "rose": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "violent": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "handl": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "case": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "support": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "cast": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "includ": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "danni": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "aiello": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "ron": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "dean": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "dian": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "dorsey": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "bruce": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "young": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "nan": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "wood": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "ricardo": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "gutierrez": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "critic": {
+    "https://en.wikipedia.org/wiki/Main_Page": 3,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 3
+  },
+  "sever": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "watchdog": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "call": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "dirti": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "harriet": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "clint": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "eastwood": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "charact": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "harri": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "cancel": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "earli": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "partial": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "due": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "complaint": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "excess": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "violenc": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "recept": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "primarili": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "neg": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "run": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "releas": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "dvd": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "blu": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "ray": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "onlin": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "stream": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "servic": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "day": {
+    "https://en.wikipedia.org/wiki/Main_Page": 4,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 4
+  },
+  "sun": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "north": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "korea": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "jacki": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "robinson": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "tax": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "unit": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "state": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "roosilawati": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "born": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "surayi": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "pendidikan": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "1936": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "februari": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "2009": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "indonesian": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "actress": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "dancer": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "first": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "1956": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "tiga": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "dara": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "lead": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "role": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "tjatut": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "success": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "career": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "continu": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "1963": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "retir": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "act": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "period": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "florist": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "subsequ": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "found": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "le": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "sphinx": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "promot": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "agenc": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "artist": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "talent": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "1972": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "photograph": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "c": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "1960": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "credit": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "tati": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "studio": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "restor": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "chri": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "woodrich": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "volunt": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "editor": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "host": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "wikimedia": {
+    "https://en.wikipedia.org/wiki/Main_Page": 4,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 4
+  },
+  "foundat": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "non": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "profit": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "also": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "rang": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "mani": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "avail": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "largest": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "welcom": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "pictur": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "sister": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "cite": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "common": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "mediawiki": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "meta": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "wiki": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "outreach": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "multilingu": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "wikisourc": {
+    "https://en.wikipedia.org/wiki/Main_Page": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 3
+  },
+  "wikispeci": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "wikibook": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "wikifunct": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "wikimania": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "wikinew": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "wikiquot": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "wikivoyag": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "wiktionari": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "ak": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "deutsch": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "fran\u00e7ai": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "italiano": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "svenska": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "ti\u1ebfng": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "vi\u1ec7t": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "b\u00e2n": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "l\u00e2m": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "g\u00fa": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "catal\u00e0": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u010de\u0161tina": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "dansk": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "esperanto": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "euskara": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u05e2\u05d1\u05e8\u05d9\u05ea": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0570\u0561\u0575\u0565\u0580\u0565\u0576": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "norsk": {
+    "https://en.wikipedia.org/wiki/Main_Page": 4,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 4
+  },
+  "bokm\u00e5l": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "rom\u00e2n\u0103": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "simpl": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "sloven\u010dina": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "srpskohrvatski": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "t\u00fcrk\u00e7e": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "asturianu": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "az\u0259rbaycanca": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "bosanski": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u06a9\u0648\u0631\u062f\u06cc": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "eesti": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "frysk": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "gaeilg": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "galego": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "latvie\u0161u": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "lietuvi\u0173": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "nynorsk": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0a2a": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u0a1c": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "\u0a2c": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "shqip": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "sloven\u0161\u010dina": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0627\u0631\u062f\u0648": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "49": {
+    "https://en.wikipedia.org/wiki/Main_Page": 2,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 2
+  },
+  "\u0441\u0440\u043f\u0441\u043a\u043e\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0438": {
+    "https://en.wikipedia.org/wiki/Main_Page": 1,
+    "https://en.wikipedia.org/wiki/Main_Page#bodyContent": 1
+  },
+  "arm": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 7,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 7
+  },
+  "conflict": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 8,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 8
+  },
+  "attack": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 7,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 7
+  },
+  "busi": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 5,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 5
+  },
+  "economi": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 5,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 5
+  },
+  "intern": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 5,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 5
+  },
+  "law": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 6,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 6
+  },
+  "crime": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 6,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 6
+  },
+  "disast": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 7,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 7
+  },
+  "accid": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 6,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 6
+  },
+  "environ": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 3
+  },
+  "elect": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4
+  },
+  "sport": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2
+  },
+  "referendum": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "trial": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "2025": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 30,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 30
+  },
+  "develop": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "econom": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "protest": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "strike": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "upcom": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "conclud": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "march": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "global": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "africa": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "america": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "asia": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "pacif": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "europ": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "middl": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "east": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "govern": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "environment": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "transport": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "establish": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "disestablish": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "introduct": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "118": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 2,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 2
+  },
+  "\u00e6nglisc": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0905\u0935\u0927": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0430\u0432\u0430\u0440": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "banjar": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u95a9\u5357\u8a9e": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0431\u0430\u0448\u04a1\u043e\u0440\u0442\u0441\u0430": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "bikol": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "central": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "chitumbuka": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "dagbanli": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u078b": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0788": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0780": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0784": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0790": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0921": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u091f": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u044d\u0440\u0437\u044f\u043d\u044c": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "estreme\u00f1u": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "e\u028begb": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "f\u00f8royskt": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "gaelg": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u8d1b\u8a9e": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u06af\u06cc\u0644\u06a9\u06cc": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0a97": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0a9c\u0ab0": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0aa4": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u5ba2\u5bb6\u8a9e": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "hak": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "k\u00e2": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "ng\u00ee": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "interlingua": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0438\u0440\u043e\u043d": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "isizulu": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u00edslenska": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0c95\u0ca8": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0ca8\u0ca1": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "kapampangan": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "ladino": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "latina": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "l\u00ebtzebuergesch": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "li": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "niha": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "limburg": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u092e": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0925": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u092e\u0930": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0920": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0645\u0635\u0631\u0649": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0645\u0627\u0632": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0631\u0648\u0646\u06cc": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "minangkabau": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u043c\u043e\u043d\u0433\u043e\u043b": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "n\u0101huatl": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0937": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "napulitano": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u043d\u043e\u0445\u0447\u0438\u0439\u043d": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "occitan": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u067e\u0646\u062c\u0627\u0628\u06cc": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "piemont\u00e8i": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "qaraqalpaqsha": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0440\u0443\u0441\u0438\u043d\u044c\u0441\u043a\u044b\u0439": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "scot": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "sicilianu": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "soomaaliga": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u0442\u043e\u04b7\u0438\u043a\u04e3": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\uabb3\uab83\uab79": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "tyap": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "veps\u00e4n": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "kel": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "volap\u00fck": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "walon": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u6587\u8a00": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "\u5434\u8bed": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "yor\u00f9b\u00e1": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "ze\u00eauw": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "instruct": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "statu": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "pleas": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "take": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "care": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "especi": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "autom": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "softwar": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "updat": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "04": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 21,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 21
+  },
+  "tuesday": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "14": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 4,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 4
+  },
+  "monday": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "sunday": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "saturday": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "friday": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "thursday": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "09": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 3,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 3
+  },
+  "wednesday": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "2nd": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "0": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 15,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 15
+  },
+  "media": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "quotat": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "text": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "taxa": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "discuss": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  },
+  "wikiproject": {
+    "https://en.wikipedia.org/wiki/Portal:Current_events": 1,
+    "https://en.wikipedia.org/wiki/Portal:Current_events#bodyContent": 1
+  }
+}
